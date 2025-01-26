@@ -11,4 +11,4 @@ The **Open Source Art Collection** is a React application that displays a curate
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Cora-Weiss/1880s.git
