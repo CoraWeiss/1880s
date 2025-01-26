@@ -1,12 +1,14 @@
-# 1880s
-objects and sounds from 1880s
-# Metropolitan Museum of Art Object Dataset (1880s)
+# Open Source Art Collection
 
-Dataset containing object records from the Metropolitan Museum of Art's collection from the 1880s. Data is provided as a text file in compressed format.
+## Overview
+The **Open Source Art Collection** is a React application that displays a curated collection of artworks. Each artwork is displayed in a card format, with details such as the title, artist, year, and a description. Users can click a button to view the source of each artwork.
 
-## Contents
-- MetObjects.zip: Compressed text file containing Met object records
-- Original source: Metropolitan Museum of Art Open Access Collection
+## Features
+- Display of artwork details including title, artist, year, and description.
+- Button to view the source of the artwork.
+- Responsive design with a grid layout for different screen sizes.
 
-File size: ~318MB (compressed)
-Format: Plain text
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
