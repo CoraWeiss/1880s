@@ -1,4 +1,3 @@
-// src/components/ArtworkCollection.js
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -12,22 +11,6 @@ const ArtworkCollection = () => {
       year: "1881–82",
       description: "Interior woodwork from Arabella Worsham's New York City townhouse",
       sourceUrl: "https://www.metmuseum.org/art/collection/search/20415"
-    },
-    {
-      id: 2,
-      title: "Starry Night",
-      artist: "Vincent van Gogh",
-      year: "1889",
-      description: "A masterpiece depicting a starry night sky over a quiet town.",
-      sourceUrl: "https://www.moma.org/collection/works/79802"
-    },
-    {
-      id: 3,
-      title: "The Persistence of Memory",
-      artist: "Salvador Dalí",
-      year: "1931",
-      description: "A surreal landscape with melting clocks.",
-      sourceUrl: "https://www.moma.org/collection/works/79018"
     }
   ];
 
